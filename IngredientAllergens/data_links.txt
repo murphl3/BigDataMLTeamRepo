@@ -1,0 +1,8 @@
+Overall Link:
+	https://world.openfoodfacts.org/data
+
+Direct Download Link:
+	https://static.openfoodfacts.org/data/en.openfoodfacts.org.products.csv.gz
+
+Column Data Link:
+	https://static.openfoodfacts.org/data/data-fields.txt
